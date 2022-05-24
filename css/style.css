@@ -69,7 +69,78 @@ main{
 
 .check{
     color: green;
-    border-radius: 50%;
-    border: solid green;
-    
+
+}
+
+.cover{
+    background-color: lightskyblue;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+
+.contenitore3{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    text-align: left;
+    font-size: 18px;
+}
+
+.cover2{
+    background-color: violet;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+
+.cross{
+    color: red;
+}
+
+.cover3{
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+
+.cover4{
+    background-color: orange;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+
+.cover5{
+    background-color: pink;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+
+.cover6{
+    background-color: lightgreen;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+
+.cover7{
+    background-color: lightskyblue;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+
+.contenitore4{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    text-align: left;
+    font-size: 18px;
+    border-radius: 0px 0px 10px 10px;
+
 }
