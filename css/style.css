@@ -1,0 +1,75 @@
+body{
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+}
+
+header{
+    background-color: white;
+}
+
+
+.logo{
+    font-size: 35px;
+    vertical-align: middle;
+}
+
+.simbolo{
+    vertical-align: middle;
+}
+
+main{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.contenitore1{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    border-radius: 10px 10px 0px 0px;
+    text-align: left;
+}
+
+.bottone1{
+    background-color: lightskyblue;
+    color: white;
+    border-color: lightskyblue;
+    border-radius: 5px;
+}
+
+.bottone2{
+    background-color: white;
+    color: lightgray;
+    border-color: lightgray;
+    border-radius: 5px;
+}
+
+.contenitore2{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 3px;
+    padding: 10px;
+    text-align: left;
+    font-size: 18px;
+    
+}
+
+.elemento1{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    text-align: left;
+}
+
+.check{
+    color: green;
+    border-radius: 50%;
+    border: solid green;
+    
+}
